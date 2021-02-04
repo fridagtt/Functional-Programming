@@ -1,0 +1,12 @@
+ MOV   #A  #B
+MOV  1 #C
+SUB #D #B
+MUL #D #A  
+
+MOV 2354 #B SUM #B #C SUM #C #D 
+
+
+
+   
+
+;
